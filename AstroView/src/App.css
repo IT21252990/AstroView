@@ -1,0 +1,23 @@
+
+/* WellcomePage */
+.video-darken-filter {
+  @apply absolute z-0 object-cover w-full h-full;
+  filter: brightness(0.5);
+}
+
+/* Learnmore Page */
+.video-darken-filter-lern-more{
+  @apply absolute z-0 object-cover w-full h-auto rounded-b-full lg:h-full sm:rounded-br-full lg:rounded-r-full ;
+  filter: brightness(0.6);
+}
+
+/* Home Page */
+.video-darken-filter-home{
+  @apply absolute z-0 object-cover w-full h-full ;
+  filter: brightness(0.3);
+}
+
+/* GalleryCard Component */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
