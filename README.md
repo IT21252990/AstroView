@@ -165,8 +165,8 @@ Throughout the integration of these APIs, various challenges were encountered an
    ```bash
        npx test
     ```
-## ---------------------------------------------------------------------------------------------
+## Author
 
-- **Student Name: Kalinga Jayathilaka**
+- **Kalinga Jayathilaka**
 - **[GitHub Profile](https://github.com/IT21252990)**
 
